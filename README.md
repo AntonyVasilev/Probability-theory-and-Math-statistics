@@ -1,5 +1,7 @@
 # Probability-theory-and-Math-statistics
 
+Стек: python, jupyter notebook, scipy, matplotlib, seaborn
+
 ### Имеется датасет с средними ценами на авокадо и объемами продаж на нескольких рынках США.
 Данный датасет взят с Kaggle.com (https://www.kaggle.com/neuromusic/avocado-prices).  
 __Описание датасета:__ 
